@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="hbyoo@147.47.200.155:22 password" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="Always" serverName="hbyoo@147.47.200.155:7777 (2)" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="hbyoo@147.47.200.146:7777">
+      <paths name="hbyoo@147.47.200.155:7777 (2)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/pycharm_project_267" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="hbyoo@147.47.200.155:22 password">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/tmp/pycharm_project_248" local="$PROJECT_DIR$" />
+            <mapping deploy="/tmp/pycharm_project_157" local="$PROJECT_DIR$" />
+            <mapping deploy="/tmp/ipykernel_1877" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
